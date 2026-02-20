@@ -20,6 +20,7 @@ I used SQL Server to process 5.5 million rows of data.
 - **Seasonality** is a major factor, with casual ridership dropping significantly in winter.
 
 ### 4. Data Visualization
+![Cyclistic Analysis Dashboard](Tableau_Screenshot.png)
 
 [View Interactive Tableau Dashboard Here](https://public.tableau.com/views/CyclisticProject_17713660841220/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
