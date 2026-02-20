@@ -5,6 +5,12 @@ A case study analyzing bike-share data to identify behavioral differences betwee
 # Case Study: How Does a Bike-Share Navigate Speedy Success?
 ## Course: Google Data Analytics Capstone
 
+### 🛠️ Tech Stack & Tools
+* **SQL Server (SSMS):** Used for data cleaning, joining 12 months of raw data (5.5M+ rows), and performing complex aggregations.
+* **Tableau Public:** Created an interactive, accessible dashboard to visualize seasonal and behavioral trends.
+* **GitHub:** Utilized for version control and documenting the full data analysis lifecycle.
+* **Microsoft Excel:** Performed initial data exploration and sanity checks.
+
 ### 1. Introduction
 This case study analyzes historical trip data from 'Cyclistic', a fictional bike-share company in Chicago. The goal is to identify how annual members and casual riders use the service differently to help design a marketing strategy to convert casual riders into annual members.
 
